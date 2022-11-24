@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* We can see how the main tags are followed sequentially h1-h3 tags */
 body {
     background-color: #d9dcd6;
 }
-
+/* Tag header have color, background-color, font-family and padding so we have size type and places */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

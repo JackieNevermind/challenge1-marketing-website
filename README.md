@@ -118,4 +118,19 @@ You are required to submit the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ---
+
+### Web development: **accessibility
+
+My goal is to add accessibility to the site.  The quick thing I did was to add "alt" attributes to the "img" tags
+
+Also, always specify the width and height of an image. If width and height are not specified, the page might flicker while the image loads.
+
+Aded description to all “img”
+
+Add name Company It`s must help with searh to client
+
+In our website the code was not specified id="search-engine-optimization" so our link did`t work
+
+I also tried to make a braille keyboard, but when I stareted to study this issue, I realized that a javascript was needed there.
+
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
